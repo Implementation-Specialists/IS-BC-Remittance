@@ -1,0 +1,34 @@
+{
+  "id": "5a50792d-365c-4def-a1a6-ce8f3c0c30e8",
+  "name": "IS Remittance",
+  "publisher": "Implementation Specialists",
+  "version": "1.0.0.0",
+  "brief": "Limits to number of remittance lines on checks.",
+  "description": "Limits the number of voided checks with remittance lines.",
+  "privacyStatement": "https://www.iscorp.biz/privacy-policy/",
+  "EULA": "https://learn.microsoft.com/en-us/legal/marketplace/standard-contract",
+  "contextSensitiveHelpUrl": "https://www.iscorp.biz/",
+  "help": "https://www.iscorp.biz/support/",
+  "url": "https://www.iscorp.biz/",
+  "logo": "../Resources/ISLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 66050,
+      "to": 66059
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.2",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

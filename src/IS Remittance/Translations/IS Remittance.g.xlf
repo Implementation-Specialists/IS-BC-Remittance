@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="IS Remittance">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 458222547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check (Check/Stub/Stub)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1324170193" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for employee %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document type, %2 = Document No., %3 = Employee No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType AlreadyAppliedToEmployeeErr</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2042524856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot print check because employee %1 is blocked due to privacy.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Employee no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType BlockedEmplForCheckErr</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3919590978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType CheckNoTextCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 433976717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType CheckNoText_Control1480000CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3112881028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType DocDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2833281111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType DocNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1085275642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType LineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1857519089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType LineDiscountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3707963479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Posting_DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1905097733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 must not be blocked for privacy.</source>
+          <note from="Developer" annotates="general" priority="2">%1=customer or vendor, %2= customer or vendor code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType PrivacyBlockedErr</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 4204058380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview is not allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text000Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No. must be filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters on %1 and %2 are not allowed.</source>
+          <note from="Developer" annotates="general" priority="2">%1=Field caption for "Line No." field, %2=Field caption for "Document No." field</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 956639880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must be entered</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text004Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2643262487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Bank Account and the General Journal Line must have the same currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text005Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2364520756" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Both Bank Accounts must have the same currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text008Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 16697238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 already exists.</source>
+          <note from="Developer" annotates="general" priority="2">%1=The check number.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text013Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2014966228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check for %1 %2</source>
+          <note from="Developer" annotates="general" priority="2">%1=Balancing account type (G/L Account,Customer,Vendor,Bank Account), %2=Balancing Account Number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text014Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 225200001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the Check report, One Check per Vendor and Document No. must not be activated when Applies-to ID is specified in the journal lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text016Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3758776663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text019Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3150482686" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The total amount of check %1 is %2. The amount must be positive.</source>
+          <note from="Developer" annotates="general" priority="2">%1=The check number, %2=The amount of the check</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text020Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3663548040" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text023Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 622763189" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for customer %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1=The document type, %2=The document number, %3=The customer number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text030Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 720248646" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for vendor %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1=The document type, %2=The document number, %3=The vendor number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text031Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1070321131" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account,Customer,Vendor,Bank Account,,,Employee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text062Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2334850270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be %2 for %3 %4.</source>
+          <note from="Developer" annotates="general" priority="2">%1=Field caption for "Blocked" field, %2=Field value for "Blocked Field", %3=Customer table caption, %4=Customer number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType Text064Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3565435184" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning:  Checks cannot be financially voided when Force Doc. Balance is set to No in the Journal Template.  Do you want to continue anyway?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText001Qst</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1080057968" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process cancelled at user request.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText002Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2682762422" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No. must include at least one digit, so that it can be incremented.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText004Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 32509172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the &lt;blank&gt; %1 option with a Canadian style check. Please check %2 %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1=Field caption for "Check Date Format" field, %2=Caption for table "Bank Account", %3=Bank Account number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText006Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 4251164387" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the Spanish %1 option with a Canadian style check. Please check %2 %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1=Field caption for "Bank Communication" field, %2=Caption for table "Bank Account", %3=Bank Account number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText007Err</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 2162138093" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText011Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3930377068" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText012Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3872438187" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText013Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3939732586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText014Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 1029140905" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText015Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - NamedType 3460598247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - NamedType USText017Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 2663384385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank account that the check will be drawn from.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control BankAccount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 2663384385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control BankAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 3691953284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want each check to commit to the database after printing instead of at the end of the print job. This allows you to avoid differences between the data and check stock on networks where the print job is cached.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control CommitEachCheck - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 3691953284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commit Each Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control CommitEachCheck - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 1563725732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if only one check is printed per vendor for each document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control OneCheckPerVendorPerDocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 1563725732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One Check per Vendor per Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control OneCheckPerVendorPerDocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 1059736969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you use check forms with preprinted stubs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control PreprintedStub - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 1059736969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preprinted Stub</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control PreprintedStub - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 2992590101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if checks are printed again if you canceled the printing due to a problem.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control ReprintChecks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 2992590101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reprint Checks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control ReprintChecks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 846100057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to print the checks on blank paper before you print them on check forms.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control TestPrint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 846100057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control TestPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 3400530472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the last check that was issued. If you have entered a number in the Last Check No. field in the Bank Account Card window, the number will appear here when you fill in the Bank Account field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control UseCheckNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 458222547 - Control 3400530472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Check/Stub/Stub) - Control UseCheckNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check (Stub/Check/Stub)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1324170193" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for employee %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document type, %2 = Document No., %3 = Employee No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType AlreadyAppliedToEmployeeErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2042524856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot print check because employee %1 is blocked due to privacy.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Employee no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType BlockedEmplForCheckErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3919590978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType CheckNoTextCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 433976717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType CheckNoText_Control1480000CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3112881028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType DocDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2833281111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType DocNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1085275642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType LineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1857519089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType LineDiscountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3707963479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Posting_DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1905097733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 must not be blocked for privacy.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = customer or vendor, %2 = customer or vendor code.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType PrivacyBlockedErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview is not allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No. must be filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters on %1 and %2 are not allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must be entered.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Bank Account and the General Journal Line must have the same currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Both Bank Accounts must have the same currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 already exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check for %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the Check report, One Check per Vendor and Document No.\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not be activated when Applies-to ID is specified in the journal lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The total amount of check %1 is %2. The amount must be positive.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NON-NEGOTIABLE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXX.XX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1148659762" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for customer %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text030</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 510963145" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for vendor %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text031</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3908497555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account,Customer,Vendor,Bank Account,,,Employee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text062</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2633104321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be %2 for %3 %4.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType Text064</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2412089670" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning:  Checks cannot be financially voided when Force Doc. Balance is set to No in the Journal Template.  Do you want to continue anyway?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText001</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 498999819" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process cancelled at user request.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText002</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3518573881" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No. must include at least one digit, so that it can be incremented.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText004</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2243180647" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the &lt;blank&gt; %1 option with a Canadian style check. Please check %2 %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText006</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 2880877264" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the Spanish %1 option with a Canadian style check. Please check %2 %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText007</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1413228709" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText011</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 775532092" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText012</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 137835475" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText013</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3795106154" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText014</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 3157409537" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText015</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - NamedType 1882016303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - NamedType USText017</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 2663384385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank account that the check will be drawn from.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control BankAccount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 2663384385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control BankAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 3691953284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want each check to commit to the database after printing instead of at the end of the print job. This allows you to avoid differences between the data and check stock on networks where the print job is cached.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control CommitEachCheck - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 3691953284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commit Each Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control CommitEachCheck - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 1563725732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if only one check is printed per vendor for each document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control OneCheckPerVendorPerDocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 1563725732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One Check per Vendor per Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control OneCheckPerVendorPerDocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 1059736969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you use check forms with preprinted stubs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control PreprintedStub - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 1059736969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preprinted Stub</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control PreprintedStub - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 2992590101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if checks are printed again if you canceled the printing due to a problem.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control ReprintChecks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 2992590101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reprint Checks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control ReprintChecks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 846100057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to print the checks on blank paper before you print them on check forms.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control TestPrint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 846100057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control TestPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 3400530472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the last check that was issued. If you have entered a number in the Last Check No. field in the Bank Account Card window, the number will appear here when you fill in the Bank Account field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control UseCheckNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4103945867 - Control 3400530472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ISZ Check (Stub/Check/Stub) - Control UseCheckNo - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
