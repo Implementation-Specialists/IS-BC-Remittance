@@ -1145,8 +1145,763 @@
               </Border>
             </Style>
           </Textbox>
+          <Textbox Name="textbox137">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(18, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.45804in</Top>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>39</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox138">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(19, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.6246in</Top>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>40</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox139">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(20, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.79115in</Top>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>41</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox140">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(21, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.95771in</Top>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>42</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox141">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(22, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>2.12427in</Top>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>43</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox142">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(28, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style>
+                      <Format>d</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.45804in</Top>
+            <Left>0.99213in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.82677in</Width>
+            <ZIndex>44</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox143">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(29, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style>
+                      <Format>d</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.6246in</Top>
+            <Left>0.99213in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.82677in</Width>
+            <ZIndex>45</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox144">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(30, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style>
+                      <Format>d</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.79115in</Top>
+            <Left>0.99213in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.82677in</Width>
+            <ZIndex>46</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox145">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(31, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style>
+                      <Format>d</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.95771in</Top>
+            <Left>0.99213in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.82677in</Width>
+            <ZIndex>47</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox146">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(32, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style>
+                      <Format>d</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>2.12427in</Top>
+            <Left>0.99213in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.82677in</Width>
+            <ZIndex>48</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox147">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(38, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.45804in</Top>
+            <Left>1.90158in</Left>
+            <Height>0.16654in</Height>
+            <Width>2.72835in</Width>
+            <ZIndex>49</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox148">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(39, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.6246in</Top>
+            <Left>1.90158in</Left>
+            <Height>0.16654in</Height>
+            <Width>2.72835in</Width>
+            <ZIndex>50</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox149">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(40, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.79115in</Top>
+            <Left>1.90158in</Left>
+            <Height>0.16654in</Height>
+            <Width>2.72835in</Width>
+            <ZIndex>51</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox150">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(42, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>2.12427in</Top>
+            <Left>1.90158in</Left>
+            <Height>0.16654in</Height>
+            <Width>2.72835in</Width>
+            <ZIndex>52</ZIndex>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox151">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(48,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(112, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.45804in</Top>
+            <Left>4.7126in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>53</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox152">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(49,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(112, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.6246in</Top>
+            <Left>4.7126in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>54</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox153">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(50,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(112, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.79115in</Top>
+            <Left>4.7126in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>55</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox154">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(51,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(112, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.95771in</Top>
+            <Left>4.7126in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>56</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox155">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(52,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(112, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>2.12427in</Top>
+            <Left>4.7126in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>57</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox156">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(58,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(113, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.45804in</Top>
+            <Left>5.70473in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>58</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox157">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(59,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(113, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.6246in</Top>
+            <Left>5.70473in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>59</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox158">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(60,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(113, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.79115in</Top>
+            <Left>5.70473in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>60</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox159">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(61,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(113, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.95771in</Top>
+            <Left>5.70473in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>61</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox160">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(62,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(113, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>2.12427in</Top>
+            <Left>5.70473in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>62</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox161">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(68,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(114, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.45804in</Top>
+            <Left>6.69685in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>63</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox162">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(69,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(114, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.6246in</Top>
+            <Left>6.69685in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>64</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox163">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(70,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(114, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.79115in</Top>
+            <Left>6.69685in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>65</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox164">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(71,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(114, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.95771in</Top>
+            <Left>6.69685in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>66</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox165">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Code.BlankZero(CDec(Choose(72,Split(Cstr(ReportItems!FooterInfo.Value), Chr(177)))))</Value>
+                    <Style>
+                      <Format>=Cstr(Choose(114, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Format>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>2.12427in</Top>
+            <Left>6.69685in</Left>
+            <Height>0.16654in</Height>
+            <Width>0.90945in</Width>
+            <ZIndex>67</ZIndex>
+            <Visibility>
+              <Hidden>=iif(Choose(43, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))) = "", True, False)</Hidden>
+            </Visibility>
+            <DataElementOutput>NoOutput</DataElementOutput>
+            <Style />
+          </Textbox>
+          <Textbox Name="textbox166">
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Cstr(Choose(41, Split(Cstr(ReportItems!FooterInfo.Value), Chr(177))))</Value>
+                    <Style />
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.95771in</Top>
+            <Left>1.90158in</Left>
+            <Height>0.16654in</Height>
+            <Width>2.72835in</Width>
+            <ZIndex>68</ZIndex>
+            <Style />
+          </Textbox>
         </ReportItems>
-        <Height>2.24948in</Height>
+        <Height>2.31164in</Height>
         <Style />
       </Body>
       <Width>7.93701in</Width>
